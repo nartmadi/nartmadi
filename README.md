@@ -6,7 +6,7 @@ I'm a **Tech Lead** at **Kubar.io** and a **fourth-year computing student** at t
 ## 🚀 What I'm Up To
 
 - 👨‍💻 Leading software engineers at Kubar.io to build its AI/ML Platform.
-- 🎓 Wrapping up my studies at the Rochester Institute of Technology.
+- 🎓 Wrapping up my last semester at the Rochester Institute of Technology.
 - 🦾 Practicing Leetcode for coding interviews at big tech companies.
 - 💻 Building cool ML projects to showcase to future employers and learn from.
 
