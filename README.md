@@ -5,7 +5,6 @@ I'm a **fourth-year computing student** at the **Rochester Institute of Technolo
 
 ## 🚀 What I'm Up To
 
-- 👨‍💻 Leading software engineers at Kubar.io to build its AI/ML Platform.
 - 🎓 Wrapping up my last semester at the Rochester Institute of Technology.
 - 🦾 Practicing Leetcode for coding interviews at big tech companies.
 - 💻 Building cool ML projects to showcase to future employers and learn from.
