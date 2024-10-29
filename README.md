@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Nart Madi</h1>
 
 ## 💫 About Me
-I'm a **Tech Lead** at **Kubar.io** and a **fourth-year computing student** at the **Rochester Institute of Technology**. I'm passionate about making a positive impact on the world by launching a tech startup that revolutionizes an industry.
+I'm a **fourth-year computing student** at the **Rochester Institute of Technology**. I'm passionate about making a positive impact on the world by launching a tech startup that revolutionizes an industry.
 
 ## 🚀 What I'm Up To
 
