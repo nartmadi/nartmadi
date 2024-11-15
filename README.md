@@ -7,7 +7,7 @@ I'm a **fourth-year computing student** at the **Rochester Institute of Technolo
 
 - 🎓 Wrapping up my last semester at the Rochester Institute of Technology.
 - 🦾 Practicing Leetcode for coding interviews at big tech companies.
-- ⚡ Building a tech startup in stealth.
+- ⚡ Building a tech startup.
 
 
 ## 🌐 Socials
