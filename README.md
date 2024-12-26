@@ -1,5 +1,5 @@
 ## 💫 About Me
-I'm a software engineer and graduate of **RIT** in Computing & Information Technologies and 42 School, dedicated to creating a lasting, positive impact on the world through innovation and technology.
+I'm a software engineer and graduate of **RIT** in Computing & Information Technologies and **42 School**, dedicated to creating a lasting, positive impact on the world through innovation and technology.
 
 ## 🚀 What I'm Up To
 
