@@ -3,7 +3,7 @@ I'm a software engineer and graduate of **RIT** with a B.S. in Computing & Infor
 
 ## 🚀 What I'm Up To
 
-- 📚 Pursuing a M.S. in Data Analytics.
+- 📚 Pursuing a M.S. in Data Analytics at RIT.
 - 🔍 Actively pursuing a Software Engineering role.
 - 🦾 Sharpening my problem-solving skills on LeetCode.
 
