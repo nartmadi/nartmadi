@@ -1,11 +1,11 @@
 ## 💫 About Me
-I'm a software engineer and graduate of **RIT** in Computing & Information Technologies and **42 School**, dedicated to creating a lasting, positive impact on the world through innovation and technology.
+I'm a software engineer and graduate of **RIT** with a B.S. in Computing & Information Technologies and **42 School**, currently pursuing an M.S. in Professional Studies: Data Analytics at **RIT**, dedicated to creating a lasting, positive impact on the world through technology.
 
 ## 🚀 What I'm Up To
 
-- 🛠️ Enhancing my portfolio with impactful projects.
-- 🦾 Sharpening my problem-solving skills on LeetCode.
+- 📚 Pursuing a M.S. in Professional Studies: Data Analytics.
 - 🔍 Actively pursuing a Software Engineering role.
+- 🦾 Sharpening my problem-solving skills on LeetCode.
 
 
 ## 🌐 Socials
