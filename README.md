@@ -1,19 +1,16 @@
 ## 💫 About Me
-I'm a software engineer and graduate of **RIT** with a B.S. in Computing & Information Technologies and **42 School**, currently pursuing an M.S. in Data Analytics at **RIT**, dedicated to creating a lasting, positive impact on the world through technology.
+I am pursuing an M.S. in Data Analytics at **RIT**, following a B.S. in Computing & IT from **RIT** and a rigorous education at **42 School**. He also holds an honorary certificate in Data Science from **DIP**.
 
 ## 🚀 What I'm Up To
 
 - 📚 Pursuing an M.S. in Data Analytics at RIT.
+- 📄 Writing & publishing conference papers.
 - 🔍 Actively pursuing a Software Engineering role.
-- 🦾 Sharpening my problem-solving skills on LeetCode.
 
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nartmadi)
 [![Personal Website](https://img.shields.io/badge/nartmadi.com-red)](https://www.nartmadi.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/nartmadi)
-
-
 
 # 💻 Tech Stack
 Languages: 
