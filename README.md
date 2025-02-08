@@ -1,5 +1,5 @@
 ## 💫 About Me
-I am pursuing an M.S. in Data Analytics at **RIT**, following a B.S. in Computing & IT from **RIT** and a rigorous education at **42 School**. He also holds an honorary certificate in Data Science from **DIP**.
+I am pursuing an M.S. in Data Analytics at **RIT**, following a B.S. in Computing & IT from **RIT** and a rigorous education at **42 School**.
 
 ## 🚀 What I'm Up To
 
