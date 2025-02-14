@@ -5,7 +5,7 @@ I am pursuing an M.S. in Data Analytics at **RIT**, following a B.S. in Computin
 
 - 📚 Pursuing an M.S. in Data Analytics at RIT.
 - 📄 Writing & publishing conference papers.
-- 🔍 Actively pursuing a Software Engineering role.
+- 🔍 Actively pursuing a role as an AI/ML Engineer.
 
 
 ## 🌐 Socials
