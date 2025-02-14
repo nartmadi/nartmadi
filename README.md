@@ -1,5 +1,5 @@
 ## 💫 About Me
-I am pursuing an M.S. in Data Analytics at **RIT**, following a B.S. in Computing & IT from **RIT** and a rigorous education at **42 School**.
+I am pursuing an M.S. in Data Analytics at **RIT**, following a B.S. in Computing & IT from **RIT** and a rigorous education at **42 School**. I aspire to pursue a Ph.D. in Computer Science with a focus on AI/ML.
 
 ## 🚀 What I'm Up To
 
