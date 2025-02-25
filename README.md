@@ -11,7 +11,7 @@ I'm an AI/ML Engineer with experience as a Lead ML Engineer and AI Engineer.
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nartmadi)
 [![Personal Website](https://img.shields.io/badge/nartmadi.com-red)](https://www.nartmadi.com)
 
-# 💻 Tech Stack
+## Tech Stack
 Languages: 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
